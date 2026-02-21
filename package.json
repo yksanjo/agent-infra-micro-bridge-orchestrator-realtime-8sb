@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-micro-bridge-orchestrator-realtime-8sb",
+  "version": "1.0.0",
+  "description": "Security and authentication service",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "micro-bridge-orchestrator-realtime-8sb"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-micro-bridge-orchestrator-realtime-8sb.git"
+  }
+}
